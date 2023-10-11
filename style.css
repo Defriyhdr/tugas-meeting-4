@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 300px 300px 300px 300px;
+}
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.09) 6px 8px 12px;
+}
+
+.card {
+    font-family: 'Roboto';
+    border: 1px #e5e7eb solid;
+    border-radius: 0.5rem;
+    height: 362px;
+    width:378px;
+    
+} 
+
+.gambar {
+    width: 100%;
+    height: auto;
+}
+
+.title {
+    color: #1f2937;
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 16px;
+    padding-top: 12px;
+    margin-bottom: 24px;
+}
+
+.content {
+    color: #1f2937;
+    font-size: 12px;
+    padding-left: 16px;
+    margin-bottom: 32px;
+}
+
+.other {
+    color: #002db4;
+    padding-left: 16px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 8px;
+}
