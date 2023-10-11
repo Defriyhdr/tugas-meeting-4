@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page-fajardanis {
+  margin: 20px;
+  font-family: "Metropolis", sans-serif;
+}
+
+.page-fajardanis > h1 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: aquamarine;
+}
+
+.card-fajardanis {
+  max-width: 372px;
+  border: 1px solid rgb(6 6 6 / 8%);
+  margin: auto;
+  border-radius: 5px;
+  font-size: small;
+  overflow: hidden;
+}
+
+.card-fajardanis :hover {
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-content-fajardanis {
+  padding: 8px 16px 16px;
+}
+
+.card-text-fajardanis {
+  padding-bottom: 16px;
+}
+
+.card-text-fajardanis > h3 {
+  font-size: 20px;
+  padding-bottom: 16px;
+}
+
+.card-text-fajardanis > p {
+  line-height: 20px;
+}
+
+.card-content-fajardanis > a {
+  padding-top: 20px;
+  padding-bottom: 16px;
+  font-size: 18px;
+  color: rgb(0 45 180);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card-fajardanis img {
+  height: auto;
+  width: 110%;
+  left: -15px;
+  position: relative;
+}
+
+svg.arrow-fajardanis {
+  position: relative;
+  top: 8px;
+  right: -4px;
+}
