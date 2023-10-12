@@ -178,3 +178,67 @@ svg.arrow-dewi {
     top: 8px;
     right: -4px;
 }
+/* bagus */
+
+.page-bagus {
+    margin: 20px;
+    font-family: 'Metropolis', sans-serif;
+    
+}
+
+.page-bagus>h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card-bagus {
+    max-width: 372px;
+    border: 1px solid rgb(6 6 6 / 8%);
+    margin: auto;
+    border-radius: 5px;
+    font-size: small;
+    overflow: hidden;
+}
+
+.card-bagus:hover {
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-content-bagus {
+    padding: 8px 16px 16px;
+}
+
+.card-text-bagus {
+    padding-bottom: 16px;
+}
+
+.card-text-bagus>h3 {
+    font-size: 20px;
+    padding-bottom: 16px;
+}
+
+.card-text-bagus>p {
+    line-height: 20px;
+}
+
+.card-content-bagus>a {
+    padding-top: 20px;
+    padding-bottom: 16px;
+    font-size: 18px;
+    color: rgb(0 45 180);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.card-bagus img {
+    height: auto;
+    width: 110%;
+    left: -15px;
+    position: relative;
+}
+
+svg.arrow-bagus {
+    position: relative;
+    top: 8px;
+    right: -4px;
+}
