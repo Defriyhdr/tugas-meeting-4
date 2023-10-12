@@ -1,244 +1,288 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /* Defri */
 #container-def {
-    margin-left: 24px;
-    margin-top: 24px;
+  margin-left: 24px;
+  margin-top: 24px;
 }
 
 .card-def:hover {
-    box-shadow: rgba(0, 0, 0, 0.09) 6px 8px 12px;
+  box-shadow: rgba(0, 0, 0, 0.09) 6px 8px 12px;
 }
 
 .card-def {
-    font-family: 'Roboto';
-    border: 1px #e5e7eb solid;
-    border-radius: 0.5rem;
-    height: 362px;
-    width: 378px;
-
+  font-family: "Roboto";
+  border: 1px #e5e7eb solid;
+  border-radius: 0.5rem;
+  height: 362px;
+  width: 378px;
 }
 
 .gambar-def {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .title-def {
-    color: #1f2937;
-    font-weight: 600;
-    font-size: 20px;
-    padding-left: 16px;
-    padding-top: 12px;
-    margin-bottom: 24px;
+  color: #1f2937;
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 16px;
+  padding-top: 12px;
+  margin-bottom: 24px;
 }
 
 .content-def {
-    color: #1f2937;
-    font-size: 12px;
-    padding-left: 16px;
-    margin-bottom: 32px;
+  color: #1f2937;
+  font-size: 12px;
+  padding-left: 16px;
+  margin-bottom: 32px;
 }
 
 .other-def {
-    color: #002db4;
-    padding-left: 16px;
-    font-weight: bold;
-    font-size: 18px;
-    margin-top: 8px;
+  color: #002db4;
+  padding-left: 16px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 8px;
 }
 
 /* Fajar */
 .page-fajardanis {
-    margin: 20px;
-    font-family: "Metropolis", sans-serif;
+  margin: 20px;
+  font-family: "Metropolis", sans-serif;
 }
 
-.page-fajardanis>h1 {
-    margin-top: 44px;
-    text-align: center;
-    padding-bottom: 20px;
-    color: aquamarine;
+.page-fajardanis > h1 {
+  margin-top: 44px;
+  text-align: center;
+  padding-bottom: 20px;
+  color: aquamarine;
 }
 
 .card-fajardanis {
-    max-width: 372px;
-    border: 1px solid rgb(6 6 6 / 8%);
-    margin: auto;
-    border-radius: 5px;
-    font-size: small;
-    overflow: hidden;
+  max-width: 372px;
+  border: 1px solid rgb(6 6 6 / 8%);
+  margin: auto;
+  border-radius: 5px;
+  font-size: small;
+  overflow: hidden;
 }
 
 .card-fajardanis:hover {
-    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 .card-content-fajardanis {
-    padding: 8px 16px 16px;
+  padding: 8px 16px 16px;
 }
 
 .card-text-fajardanis {
-    padding-bottom: 16px;
+  padding-bottom: 16px;
 }
 
-.card-text-fajardanis>h3 {
-    font-size: 20px;
-    padding-bottom: 16px;
+.card-text-fajardanis > h3 {
+  font-size: 20px;
+  padding-bottom: 16px;
 }
 
-.card-text-fajardanis>p {
-    line-height: 20px;
+.card-text-fajardanis > p {
+  line-height: 20px;
 }
 
-.card-content-fajardanis>a {
-    padding-top: 20px;
-    padding-bottom: 16px;
-    font-size: 18px;
-    color: rgb(0 45 180);
-    font-weight: 600;
-    text-decoration: none;
+.card-content-fajardanis > a {
+  padding-top: 20px;
+  padding-bottom: 16px;
+  font-size: 18px;
+  color: rgb(0 45 180);
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .card-fajardanis img {
-    height: auto;
-    width: 110%;
-    left: -15px;
-    position: relative;
+  height: auto;
+  width: 110%;
+  left: -15px;
+  position: relative;
 }
 
 svg.arrow-fajardanis {
-    position: relative;
-    top: 8px;
-    right: -4px;
+  position: relative;
+  top: 8px;
+  right: -4px;
 }
 
 /* Dewi */
 .page-dewi {
-    margin: 20px;
-    font-family: 'Metropolis', sans-serif;
+  margin: 20px;
+  font-family: "Metropolis", sans-serif;
 }
 
-.page-dewi>h1 {
-    text-align: center;
-    padding-bottom: 20px;
+.page-dewi > h1 {
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 .card-dewi {
-    max-width: 372px;
-    border: 1px solid rgb(6 6 6 / 8%);
-    margin: auto;
-    border-radius: 5px;
-    font-size: small;
-    overflow: hidden;
+  max-width: 372px;
+  border: 1px solid rgb(6 6 6 / 8%);
+  margin: auto;
+  border-radius: 5px;
+  font-size: small;
+  overflow: hidden;
 }
 
 .card-dewi:hover {
-    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 .card-content-dewi {
-    padding: 8px 16px 16px;
+  padding: 8px 16px 16px;
 }
 
 .card-text-dewi {
-    padding-bottom: 16px;
+  padding-bottom: 16px;
 }
 
-.card-text-dewi>h3 {
-    font-size: 20px;
-    padding-bottom: 16px;
+.card-text-dewi > h3 {
+  font-size: 20px;
+  padding-bottom: 16px;
 }
 
-.card-text-dewi>p {
-    line-height: 20px;
+.card-text-dewi > p {
+  line-height: 20px;
 }
 
-.card-content-dewi>a {
-    padding-top: 20px;
-    padding-bottom: 16px;
-    font-size: 18px;
-    color: rgb(0 45 180);
-    font-weight: 600;
-    text-decoration: none;
+.card-content-dewi > a {
+  padding-top: 20px;
+  padding-bottom: 16px;
+  font-size: 18px;
+  color: rgb(0 45 180);
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .card-dewi img {
-    height: auto;
-    width: 110%;
-    left: -15px;
-    position: relative;
+  height: auto;
+  width: 110%;
+  left: -15px;
+  position: relative;
 }
 
 svg.arrow-dewi {
-    position: relative;
-    top: 8px;
-    right: -4px;
+  position: relative;
+  top: 8px;
+  right: -4px;
 }
 /* bagus */
 
 .page-bagus {
-    margin: 20px;
-    font-family: 'Metropolis', sans-serif;
-    
+  margin: 20px;
+  font-family: "Metropolis", sans-serif;
 }
 
-.page-bagus>h1 {
-    text-align: center;
-    padding-bottom: 20px;
+.page-bagus > h1 {
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 .card-bagus {
-    max-width: 372px;
-    border: 1px solid rgb(6 6 6 / 8%);
-    margin: auto;
-    border-radius: 5px;
-    font-size: small;
-    overflow: hidden;
+  max-width: 372px;
+  border: 1px solid rgb(6 6 6 / 8%);
+  margin: auto;
+  border-radius: 5px;
+  font-size: small;
+  overflow: hidden;
 }
 
 .card-bagus:hover {
-    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 .card-content-bagus {
-    padding: 8px 16px 16px;
+  padding: 8px 16px 16px;
 }
 
 .card-text-bagus {
-    padding-bottom: 16px;
+  padding-bottom: 16px;
 }
 
-.card-text-bagus>h3 {
-    font-size: 20px;
-    padding-bottom: 16px;
+.card-text-bagus > h3 {
+  font-size: 20px;
+  padding-bottom: 16px;
 }
 
-.card-text-bagus>p {
-    line-height: 20px;
+.card-text-bagus > p {
+  line-height: 20px;
 }
 
-.card-content-bagus>a {
-    padding-top: 20px;
-    padding-bottom: 16px;
-    font-size: 18px;
-    color: rgb(0 45 180);
-    font-weight: 600;
-    text-decoration: none;
+.card-content-bagus > a {
+  padding-top: 20px;
+  padding-bottom: 16px;
+  font-size: 18px;
+  color: rgb(0 45 180);
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .card-bagus img {
-    height: auto;
-    width: 110%;
-    left: -15px;
-    position: relative;
+  height: auto;
+  width: 110%;
+  left: -15px;
+  position: relative;
 }
 
 svg.arrow-bagus {
-    position: relative;
-    top: 8px;
-    right: -4px;
+  position: relative;
+  top: 8px;
+  right: -4px;
+}
+
+/* pras */
+.card-pras {
+  max-width: 372px;
+  font-family: "Metropolis", sans-serif;
+  border: 1px solid #e5e7eb;
+  border-radius: 5px;
+  margin: 30px;
+  box-shadow: 0px 0px 0px rgb(0, 0, 0, 0.15);
+  padding-bottom: 20px;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.card-pras:hover {
+  box-shadow: 0 4px 10px rgb(0, 0, 0, 0.15);
+}
+
+.card-pras p {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.card-pras img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px 5px 0 0;
+}
+
+.card-pras a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(0 45 180);
+}
+
+.detail-pras {
+  padding: 8px 16px;
+}
+
+.arrow-pras {
+  position: relative;
+  top: 8px;
+  right: -4px;
 }
